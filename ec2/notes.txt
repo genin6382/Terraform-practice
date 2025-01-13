@@ -1,0 +1,4 @@
+- terraform init - to initialize terraform packages
+- terraform  plan- shows what infrastructure is going to be created without applying
+- terraform apply - to create the infrastructure
+- terraform destroy
